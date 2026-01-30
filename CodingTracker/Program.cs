@@ -1,2 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World! New, One more change");
+﻿void MyFirstMethod
+{
+
+}
+
+void MySecondMethod
+{
+
+}
+
+void MyThirdMethod
+{
+
+}
